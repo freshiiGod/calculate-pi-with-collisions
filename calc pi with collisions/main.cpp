@@ -10,7 +10,7 @@ int main()
 	sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "Pi calculation", sf::Style::Close);
 	{
 		window.setVerticalSyncEnabled(true);
-
+		//commit test
 		//counter for the number of collisions between either 
 		//both blocks or the smaller block and the wall
 		int counter{ 0 };
