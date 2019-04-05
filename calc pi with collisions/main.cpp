@@ -4,7 +4,7 @@
 #include <string>
 #include "block.h"
 #include "constants.h"
-
+//commit test
 int main()
 {
 	sf::RenderWindow window(sf::VideoMode(windowWidth, windowHeight), "Pi calculation", sf::Style::Close);
