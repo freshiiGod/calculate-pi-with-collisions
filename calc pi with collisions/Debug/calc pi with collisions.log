@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\tyler\desktop\projects\calc pi with collisions\calc pi with collisions\main.cpp(38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  calc pi with collisions.vcxproj -> C:\Users\Tyler\Desktop\projects\calc pi with collisions\Debug\calc pi with collisions.exe
